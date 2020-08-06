@@ -1,7 +1,6 @@
 {
   "name": "sneaks-app",
   "version": "0.1.0",
-  "homepage": "http://druv5319.github.io/sneaks-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

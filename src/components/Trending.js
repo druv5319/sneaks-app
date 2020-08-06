@@ -4,7 +4,7 @@ import Spinner from 'react-bootstrap/Spinner'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState, useEffect } from 'react';
 
-const SNEAKS_API = "http://localhost:8080/home"
+const SNEAKS_API = "https://sneaksapi.herokuapp.com/home"
 
 const Trending = () =>{
 
@@ -18,7 +18,8 @@ const Trending = () =>{
     Accept: "application/json"
   });
 
-  useEffect(() => {  
+  useEffect(() => { 
+    setErrorMessage(null) 
     fetch(SNEAKS_API, {
       headers: myHeaders,
     })
@@ -29,7 +30,8 @@ const Trending = () =>{
         setAllSneakers(jsonResponse);
         setLoading(false);
        
-      });
+      })
+      .catch(err => setErrorMessage("Could not connect to the Sneaks-API"));
   }, []);
 
   const handleClick = () => {

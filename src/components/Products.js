@@ -26,7 +26,7 @@ const Products = ({ match, location }) => {
         top: 100,
         behavior: 'smooth'
       })
-      fetch("http://localhost:8080/search/" + key, {
+      fetch("https://sneaksapi.herokuapp.com/search/" + key, {
           headers: myHeaders,
         })
         .then(response => response.json())
