@@ -11,7 +11,7 @@ const SearchBar = (props) => {
 
     const callSearchFunction = (e) => {
       e.preventDefault();
-      history.push('/search/'+searchValue);
+      history.push(process.env.PUBLIC_URL+'/search/'+searchValue);
     }
 
     return (

@@ -38,8 +38,8 @@ const App = () => {
           <BrandIcons/>
         </div>
         <Switch>
-          <Route exact path='/' component={Trending}/>
-          <Route path='/search/:key' component={Products}/>
+          <Route exact path={process.env.PUBLIC_URL+'/'} component={Trending}/>
+          <Route path={process.env.PUBLIC_URL +'/search/:key'} component={Products}/>
         </Switch>
       </div>
     );
