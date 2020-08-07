@@ -15,7 +15,7 @@ const NavBar = ()=> {
 <Navbar expand = "lg" bg="light" class='navbar' >
     
   <Navbar.Brand >        
-        <a href="/">
+        <a href={process.env.PUBLIC_URL+'/'}>
           <img src={logo} style={{width:130, marginTop: 5, marginLeft:10}} />
         </a>
     </Navbar.Brand>
