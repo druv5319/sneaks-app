@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sneaks-app/precache-manifest.aee18270cef12cf89208b7fc6230fc76.js"
+  "/sneaks-app/precache-manifest.f8ca497313c66d89f80afe5da7c5728e.js"
 );
 
 self.addEventListener('message', (event) => {
