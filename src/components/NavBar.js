@@ -1,13 +1,9 @@
 import Navbar from 'react-bootstrap/Navbar'
-import Button from 'react-bootstrap/Button'
 import Nav from 'react-bootstrap/Nav'
-import Form from 'react-bootstrap/Form'
-import Container from 'react-bootstrap/Container'
-import FormControl from 'react-bootstrap/FormControl'
 import React from 'react';
 import logo from '../images/Sneaks_Logo.png'
 
-import {Link} from 'react-router-dom';
+
 
 const NavBar = ()=> {
   return (
