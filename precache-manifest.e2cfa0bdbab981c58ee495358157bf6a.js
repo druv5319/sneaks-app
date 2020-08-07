@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a98111c9ad89ff98c1f75c9d69940fad",
+    "revision": "50547498ec96033e1b8dae8ed3e9e565",
     "url": "/sneaks-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sneaks-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "aba276c53b9e16be50d3",
-    "url": "/sneaks-app/static/css/main.8a3f08e6.chunk.css"
+    "revision": "03f044d7bd5df2bf105a",
+    "url": "/sneaks-app/static/css/main.0ce652db.chunk.css"
   },
   {
     "revision": "d23a2472b50f48de2c5d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sneaks-app/static/js/2.f41760f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aba276c53b9e16be50d3",
-    "url": "/sneaks-app/static/js/main.71eda13a.chunk.js"
+    "revision": "03f044d7bd5df2bf105a",
+    "url": "/sneaks-app/static/js/main.e7f8b379.chunk.js"
   },
   {
     "revision": "acb65b8af30549cda69d",
