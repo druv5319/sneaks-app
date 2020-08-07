@@ -618,6 +618,9 @@ button {
   margin-top: -5px;
   opacity: 0.6;
 }
+.btn-lg{
+  text-transform: capitalize;
+}
 
 .nav-link {
   float: right;
@@ -625,7 +628,7 @@ button {
 
 .tab-content {
   width: 100%;
-  height: 120px;
+  height: 110px;
   font-size: 14px;
   overflow-y: scroll;
 }

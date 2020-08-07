@@ -17,9 +17,6 @@ import {
 
 
 const App = () => {
-  console.log(process.env.PUBLIC_URL);
-  console.log("wwwowow")
-
 
 
     return (
@@ -30,7 +27,7 @@ const App = () => {
         <div class='background'>
           <div class='search-title'>
               <div class= 'title'>
-                The Sneaks AppAA
+                The Sneaks App
               </div>
               <div class= 'subtitle'>
                 Search Sneakers and Compare Prices
