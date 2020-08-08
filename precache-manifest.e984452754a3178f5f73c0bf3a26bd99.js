@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9025c79085c9540c0b1ddf4a9d575b48",
+    "revision": "06cf321c794bcd29c3aaabb011863ec9",
     "url": "/sneaks-app/index.html"
   },
   {
-    "revision": "d23a2472b50f48de2c5d",
+    "revision": "639f04efd2431aa6cc20",
     "url": "/sneaks-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "56647a675f5152068ae3",
+    "revision": "0f75275a850da14d42f3",
     "url": "/sneaks-app/static/css/main.0ce652db.chunk.css"
   },
   {
-    "revision": "d23a2472b50f48de2c5d",
-    "url": "/sneaks-app/static/js/2.f41760f6.chunk.js"
+    "revision": "639f04efd2431aa6cc20",
+    "url": "/sneaks-app/static/js/2.eb7c0d58.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/sneaks-app/static/js/2.f41760f6.chunk.js.LICENSE.txt"
+    "url": "/sneaks-app/static/js/2.eb7c0d58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56647a675f5152068ae3",
-    "url": "/sneaks-app/static/js/main.a93b3573.chunk.js"
+    "revision": "0f75275a850da14d42f3",
+    "url": "/sneaks-app/static/js/main.1f938a3d.chunk.js"
   },
   {
     "revision": "acb65b8af30549cda69d",
