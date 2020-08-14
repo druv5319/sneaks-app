@@ -17,8 +17,6 @@ import {
 
 
 const App = () => {
-
-
     return (
       <div>
         <div>
