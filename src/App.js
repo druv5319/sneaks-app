@@ -27,7 +27,7 @@ const App = () => {
         <div class='background'>
           <div class='search-title'>
               <div class= 'title'>
-                The Sneaks App (debugging)
+                The Sneaks App
               </div>
               <div class= 'subtitle'>
                 Search Sneakers and Compare Prices
