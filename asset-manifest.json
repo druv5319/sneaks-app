@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.96129f33.chunk.css",
-    "main.js": "/static/js/main.050923db.chunk.js",
-    "main.js.map": "/static/js/main.050923db.chunk.js.map",
+    "main.css": "/static/css/main.21bd7e02.chunk.css",
+    "main.js": "/static/js/main.60e7f5b6.chunk.js",
+    "main.js.map": "/static/js/main.60e7f5b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dae782fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.dae782fe.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.24975d91.chunk.js": "/static/js/2.24975d91.chunk.js",
-    "static/js/2.24975d91.chunk.js.map": "/static/js/2.24975d91.chunk.js.map",
+    "static/js/2.2a4da262.chunk.js": "/static/js/2.2a4da262.chunk.js",
+    "static/js/2.2a4da262.chunk.js.map": "/static/js/2.2a4da262.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e97d51befc47b4745b0d72fbcb6dfe21.js": "/precache-manifest.e97d51befc47b4745b0d72fbcb6dfe21.js",
+    "precache-manifest.41782a327efbb26ac329d3bd062fbc4b.js": "/precache-manifest.41782a327efbb26ac329d3bd062fbc4b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.96129f33.chunk.css.map": "/static/css/main.96129f33.chunk.css.map",
-    "static/js/2.24975d91.chunk.js.LICENSE.txt": "/static/js/2.24975d91.chunk.js.LICENSE.txt",
+    "static/css/main.21bd7e02.chunk.css.map": "/static/css/main.21bd7e02.chunk.css.map",
+    "static/js/2.2a4da262.chunk.js.LICENSE.txt": "/static/js/2.2a4da262.chunk.js.LICENSE.txt",
     "static/media/Sneaks_Logo.png": "/static/media/Sneaks_Logo.b91240ab.png",
     "static/media/App.css": "/static/media/background1.3d419a66.png",
     "static/media/flightclub.png": "/static/media/flightclub.ce23488a.png",
     "static/media/goat.png": "/static/media/goat.00eed65c.png",
+    "static/media/search.png": "/static/media/search.5621d215.png",
     "static/media/stadiumgoods.png": "/static/media/stadiumgoods.1add9161.png",
     "static/media/stockx.png": "/static/media/stockx.d8e1c1ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dae782fe.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.24975d91.chunk.js",
-    "static/css/main.96129f33.chunk.css",
-    "static/js/main.050923db.chunk.js"
+    "static/js/2.2a4da262.chunk.js",
+    "static/css/main.21bd7e02.chunk.css",
+    "static/js/main.60e7f5b6.chunk.js"
   ]
 }
