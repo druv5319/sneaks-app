@@ -8,7 +8,7 @@ import logo from '../images/Sneaks_Logo.png'
 const NavBar = ()=> {
   return (
       
-<Navbar expand = "lg" bg="light" class='navbar' >
+<Navbar  bg="light" class='navbar' >
     
   <Navbar.Brand >        
         <a href={process.env.PUBLIC_URL+'/'}>
