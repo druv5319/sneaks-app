@@ -369,11 +369,15 @@ a, u {
 }
 
 .spinner-border {
+  position: absolute;
   float: center;
   margin: 0 auto;
+  margin-left: 45%;
+
+
   vertical-align: auto;
 
-  grid-column-start: 3;
+  
   grid-row-start: 1;
 }
 

@@ -20,7 +20,7 @@ const Trending = () =>{
 
   useEffect(() => { 
     setErrorMessage(null) 
-    fetch(SNEAKS_API, {
+    /*fetch(SNEAKS_API, {
       headers: myHeaders,
     })
       .then(response => response.json())
@@ -31,7 +31,7 @@ const Trending = () =>{
         setLoading(false);
        
       })
-      .catch(err => setErrorMessage("Could not connect to the Sneaks-API"));
+      .catch(err => setErrorMessage("Could not connect to the Sneaks-API"));*/
   }, []);
 
   const handleClick = () => {
