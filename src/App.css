@@ -278,12 +278,10 @@ html, body, #wrapper, div#main {
   display: grid;
   grid-template-columns: repeat(auto-fill, 240px);
   justify-content: center;
-
-
   grid-auto-rows: auto;
   grid-gap: 27px;
   margin: 0 auto;
-  width: 91%;
+  width: 94%;
   padding-top: 15px;
   padding-bottom: 50px;
 
@@ -593,6 +591,7 @@ button {
 
 .photo .spinner {
   margin-top: 100px;
+  margin-left: -900px;
 
 }
 
@@ -723,7 +722,7 @@ button {
 }
 
 .price-table .spinner {
-  margin-left: 50%;
+  margin-left: 3%;
   margin-top: 140px;
 
 }
