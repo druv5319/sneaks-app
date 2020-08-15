@@ -18,7 +18,7 @@ const MiniCard = (props) => {
   const [fetchSneaker, triggerFetchSneaker] = useState(false);
   var sneaker = props.sneaker;
   useEffect(() => {
-    /*if (fetchSneaker) {
+    if (fetchSneaker) {
       fetch("https://sneaksapi.herokuapp.com/id/" + sneaker.styleID + '/prices', {
           headers: myHeaders,
         })
@@ -27,7 +27,7 @@ const MiniCard = (props) => {
           setNewSneaker(jsonResponse);
 
         });
-    }*/
+    }
   }, [fetchSneaker]);
 
   const showCard = () => {
