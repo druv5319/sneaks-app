@@ -190,7 +190,9 @@ a, u {
   align-items: center;
   width: 60px;
   height: 100%;
-
+}
+.icon-wrap img{
+  -webkit-appearance: none;
 }
 
 .search-bar form .inner-form .basic-search .input-field .icon-wrap svg {
@@ -284,7 +286,6 @@ html, body, #wrapper, div#main {
   width: 94%;
   padding-top: 15px;
   padding-bottom: 50px;
-
 }
 
 .product-section .title {
