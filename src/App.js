@@ -18,7 +18,7 @@ import {
 
 const App = () => {
     return (
-      <div>
+      <div class='page'>
         <div>
           <NavBar/>
         </div>

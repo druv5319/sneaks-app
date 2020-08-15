@@ -216,10 +216,21 @@ a, u {
   text-decoration: none;
   color: #656565;
 }
-
+.page{
+ height: 100%;
+ position: absolute;
+ background-color: #f8f9fa;
+ bottom: 0;
+}
+html, body, #wrapper, div#main {
+  height: 100%;
+}
 .product-section {
   position: relative;
   width: 5%;
+  
+  height: 100%;
+  
   margin-left: 52px;
   background-color: #f8f9fa;
   vertical-align: middle;
