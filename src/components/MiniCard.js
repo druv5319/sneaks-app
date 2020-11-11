@@ -19,7 +19,7 @@ const MiniCard = (props) => {
   var sneaker = props.sneaker;
   useEffect(() => {
     if (fetchSneaker) {
-      fetch("https://sneakyapi.herokuapp.com/id/" + sneaker.styleID + '/prices', {
+      fetch("https://sneaks-api.azurewebsites.net/id/" + sneaker.styleID + '/prices', {
           headers: myHeaders,
         })
         .then(response => response.json())
