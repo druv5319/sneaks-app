@@ -26,7 +26,7 @@ const Products = ({ match, location }) => {
         top: 100,
         behavior: 'smooth'
       })
-      fetch("https://sneaks-api.azurewebsites.net/search/" + key, {
+      fetch("https://sneakyapi.herokuapp.com/search/" + key, {
           headers: myHeaders,
         })
         .then(response => response.json())

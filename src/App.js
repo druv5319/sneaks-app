@@ -6,6 +6,7 @@ import BrandIcons from './components/BrandIcons'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Trending from './components/Trending';
 import Products from './components/Products';
+import * as SneaksAPI from 'sneaks-api'
 
 
 
@@ -14,6 +15,11 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
+const sneaks = new SneaksAPI();
+
+sneaks.getProducts("Yeezy Cinder", function(err, products){
+  console.log(products)
+});
 
 
 const App = () => {
