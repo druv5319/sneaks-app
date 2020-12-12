@@ -4,7 +4,7 @@ import Spinner from 'react-bootstrap/Spinner'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState, useEffect } from 'react';
 
-const SNEAKS_API = "https://sneakyapi.herokuapp.com/home"
+const SNEAKS_API = "https://sneaks-api.azurewebsites.net/home"
 
 const Trending = () =>{
 
